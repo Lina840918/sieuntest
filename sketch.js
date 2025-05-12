@@ -8,7 +8,7 @@ let img_textBox;
 
 let state = 0;
 
-let apiKey = "AIzaSyBHsfUHImdzgC4yF88ymJ9MvD264uI7y3k";
+let apiKey = "API키 입력";
 const systemPrompt =
     "You are a helpful AI assistant; given the information in the PDF file, please provide accurate responses in fewer than three sentences.";
 let conversationHistory = [];
